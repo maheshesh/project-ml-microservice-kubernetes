@@ -1,4 +1,4 @@
-https://brandfolder.com/circleci
+
 
 [![CircleCI](https://circleci.com/gh/maheshesh/project-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/maheshesh/project-ml-microservice-kubernetes)
 
