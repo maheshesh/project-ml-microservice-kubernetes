@@ -1,3 +1,5 @@
+=for HTML <a href="https://circleci.com/gh/maheshesh/project-ml-microservice-kubernetes/tree/master"><img src="https://circleci.com/gh/maheshesh/project-ml-microservice-kubernetes/tree/master.svg?style=svg"></a>
+
 [![CircleCI](https://circleci.com/gh/maheshesh/project-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/maheshesh/project-ml-microservice-kubernetes)
 
 ## Project Overview
