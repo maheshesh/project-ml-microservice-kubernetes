@@ -7,8 +7,8 @@
 # Create dockerpath
 # dockerpath=<your docker ID/path>
 dockerpath=maheshe/simple_flask:dockerfile
-Username=maheshe
-pwd=welcome123
+Username=*****
+pwd=******
 
 # Step 2:  
 # Authenticate & tag
